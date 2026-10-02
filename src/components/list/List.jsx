@@ -1,6 +1,6 @@
 import ChatList from "./ChatList/ChatList";
 import "./list.css";
-import Userinfo from "./UserInfo/UserInfo";
+import Userinfo from "./UserInfo/Userinfo";
 
 const List = () => {
   return (
