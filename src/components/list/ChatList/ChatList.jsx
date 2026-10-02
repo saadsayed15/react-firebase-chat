@@ -244,7 +244,7 @@
 // export default ChatList;
 import { useEffect, useState } from "react";
 import "./ChatList.css";
-import AddUser from "./addUser/AddUser";
+import AddUser from "./adduser/AddUser";
 import { useUserStore } from "../../../lib/userStore";
 import { doc, getDoc, onSnapshot, updateDoc } from "firebase/firestore";
 import { db } from "../../../lib/firebase";
