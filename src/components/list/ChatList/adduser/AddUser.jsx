@@ -94,7 +94,7 @@
 // };
 
 // export default AddUser;
-import "./addUser.css";
+import "./adduser.css";
 import { db } from "../../../../lib/firebase";
 import {
   arrayUnion,
